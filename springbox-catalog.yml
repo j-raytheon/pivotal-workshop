@@ -1,0 +1,11 @@
+greeting: |
+  <HTML>
+    <head><title>J Test App</title></head>
+    <body>
+      Hello World!<BR>
+      <BR>
+      Config file from GitHub.  Now we're really cookin'.<br>
+      <br>
+      <font color="red">-- J</font>
+    </body>
+  </HTML>
